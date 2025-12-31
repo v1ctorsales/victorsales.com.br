@@ -171,7 +171,7 @@ const I18N = {
       contact: "Contact",
       production: "Production",
       github: "GitHub",
-      copyright: "2025 - Victor Sales",
+      copyright: `${new Date().getFullYear()} - Victor Sales`,
     },
     skills: [
       "Java",
@@ -327,7 +327,7 @@ const I18N = {
       contact: "Contato",
       production: "Produção",
       github: "GitHub",
-      copyright: "2025 - Victor Sales",
+      copyright: `${new Date().getFullYear()} - Victor Sales`,
     },
     skills: [
       "Java",
