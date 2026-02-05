@@ -43,7 +43,7 @@ function TypingTitle({
 
   const longest = React.useMemo(
     () => texts.reduce((a, b) => (a.length >= b.length ? a : b), ""),
-    [texts]
+    [texts],
   );
 
   React.useEffect(() => {
@@ -51,7 +51,7 @@ function TypingTitle({
     if (!deleting && sub.length < full.length) {
       const t = setTimeout(
         () => setSub(full.slice(0, sub.length + 1)),
-        typingSpeed
+        typingSpeed,
       );
       return () => clearTimeout(t);
     }
@@ -62,7 +62,7 @@ function TypingTitle({
     if (deleting && sub.length > 0) {
       const t = setTimeout(
         () => setSub(full.slice(0, sub.length - 1)),
-        deletingSpeed
+        deletingSpeed,
       );
       return () => clearTimeout(t);
     }
@@ -610,7 +610,7 @@ function Hero({ lang = "en" }) {
               {/* Localização */}
               <HStack spacing={2} color="dracula.line" alignItems="baseline">
                 <Icon as={FaMapMarkerAlt} boxSize={4} color="dracula.line" />
-                <Text fontSize="lg">Tallinn, Estonia</Text>
+                <Text fontSize="lg">Porto, Portugal</Text>
               </HStack>
 
               {/* Ícones + Botão */}
@@ -683,7 +683,7 @@ function About({ lang = "en" }) {
       ([entry]) => {
         if (entry.isIntersecting) setIsVisible(true);
       },
-      { threshold: 0.3 }
+      { threshold: 0.3 },
     );
     if (ref.current) observer.observe(ref.current);
     return () => observer.disconnect();
