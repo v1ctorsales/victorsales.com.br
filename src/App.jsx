@@ -190,7 +190,7 @@ const I18N = {
         image: "/images/isendit.png",
         github: "https://github.com/v1ctorsales/iSendit",
         demo: "https://isendit.com.br",
-        tags: ["JavaScript", "React", "Node", "SQL"],
+        tags: ["javascript", "react", "nodejs", "sql"],
       },
       {
         title: "myterminal",
@@ -198,7 +198,7 @@ const I18N = {
         image: "/images/terminal.png",
         github: "https://github.com/v1ctorsales/Terminal",
         demo: "https://app.victorsales.com.br",
-        tags: ["JavaScript", "Node", "APIs"],
+        tags: ["javascript", "nodejs", "apis"],
       },
       {
         title: "Starvation Map",
@@ -206,7 +206,7 @@ const I18N = {
         image: "/images/worldmap.jpg",
         github: "https://github.com/v1ctorsales/global-starvation-map",
         demo: "https://starvation.vercel.app",
-        tags: ["Python", "Javascript", "React", "Google Cloud", "Docker"],
+        tags: ["python", "javascript", "react", "docker", "google cloud"],
         hidden: false,
       },
     ],
@@ -217,16 +217,16 @@ const I18N = {
         image: "/images/Hydra.avif",
         github: "https://github.com/hydralauncher/hydra",
         demo: "https://hydralauncher.gg",
-        tags: ["TypeScript", "React", "Python"],
+        tags: ["typescript", "react", "python"],
       },
       {
         title: "Stremio Web",
         desc: "Video streaming platform. Discover, watch and organize video content from easy to install addons.",
         image:
-          "https://raw.githubusercontent.com/Stremio/stremio-web/development/screenshots/board.png",
+          "https://play-lh.googleusercontent.com/S80g-bhVIN-iorMBUbzKUahbpn8AcqiW1EVWKtWnbSdrbes0nCJYUp-6wD0Mnh2Ibw=w526-h296-rw",
         github: "https://github.com/Stremio/stremio-web",
         demo: "https://web.stremio.com",
-        tags: ["Javascript", "Typescript", "React"],
+        tags: ["javascript", "typescript", "react"],
       },
     ],
     experience: [
@@ -346,7 +346,7 @@ const I18N = {
         image: "/images/isendit.png",
         github: "https://github.com/v1ctorsales/iSendit",
         demo: "https://isendit.com.br",
-        tags: ["JavaScript", "React", "Node", "SQL"],
+        tags: ["javascript", "react", "nodejs", "sql"],
       },
       {
         title: "myterminal",
@@ -354,7 +354,7 @@ const I18N = {
         image: "/images/terminal.png",
         github: "https://github.com/v1ctorsales/Terminal",
         demo: "https://app.victorsales.com.br",
-        tags: ["JavaScript", "Node", "APIs"],
+        tags: ["javascript", "nodejs", "apis"],
       },
       {
         title: "Starvation Map",
@@ -363,7 +363,7 @@ const I18N = {
         image: "/images/worldmap.jpg",
         github: "https://github.com/v1ctorsales/global-starvation-map",
         demo: "https://starvation.vercel.app",
-        tags: ["Python", "Javascript", "React", "Google Cloud", "Docker"],
+        tags: ["python", "javascript", "react", "docker", "google cloud"],
         hidden: false,
       },
     ],
@@ -374,16 +374,16 @@ const I18N = {
         image: "/images/Hydra.avif",
         github: "https://github.com/hydralauncher/hydra",
         demo: "https://hydralauncher.gg",
-        tags: ["TypeScript", "React", "Python"],
+        tags: ["typeScript", "react", "python"],
       },
       {
         title: "Stremio Web",
         desc: "Plataforma de streaming modular para descobrir, assistir e organizar conteúdo com extensões.",
         image:
-          "https://raw.githubusercontent.com/Stremio/stremio-web/development/screenshots/board.png",
+          "https://play-lh.googleusercontent.com/S80g-bhVIN-iorMBUbzKUahbpn8AcqiW1EVWKtWnbSdrbes0nCJYUp-6wD0Mnh2Ibw=w526-h296-rw",
         github: "https://github.com/Stremio/stremio-web",
         demo: "https://web.stremio.com",
-        tags: ["Javascript", "Typescript", "React"],
+        tags: ["javascript", "typescript", "react"],
       },
     ],
 
@@ -518,7 +518,7 @@ const projects = [
     image: "/images/isendit.png",
     github: "https://github.com/v1ctorsales/iSendit",
     demo: "https://isendit.com.br",
-    tags: ["Javascript", "React", "Node", "SQL"],
+    tags: ["Javascript", "React", "nodejs", "SQL"],
   },
   {
     title: "myterminal",
@@ -526,7 +526,7 @@ const projects = [
     image: "/images/terminal.png",
     github: "https://github.com/v1ctorsales/Terminal",
     demo: "https://app.victorsales.com.br",
-    tags: ["Javascript", "Node", "APIs"],
+    tags: ["Javascript", "nodejs", "APIs"],
   },
   {
     title: "Hydra Launcher",
