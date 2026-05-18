@@ -610,7 +610,7 @@ function Hero({ lang = "en" }) {
               {/* Localização */}
               <HStack spacing={2} color="dracula.line" alignItems="baseline">
                 <Icon as={FaMapMarkerAlt} boxSize={4} color="dracula.line" />
-                <Text fontSize="lg">Porto, Portugal</Text>
+                <Text fontSize="lg">Tampere, Finland</Text>
               </HStack>
 
               {/* Ícones + Botão */}
@@ -697,8 +697,8 @@ function About({ lang = "en" }) {
 
           <Text color="dracula.line">
             {lang === "en"
-              ? "I have over 3 years of experience in programming, mainly as a backend developer. I have worked with Java, Typescript, Python, Databases and much more. I'm currently pursuing my Masters in Artificial Intelligence for Sustainable Societies in Porto, Portugal."
-              : "Tenho mais de 3 anos de experiência em programação, principalmente como desenvolvedor backend. Já trabalhei com Java, Typescript, Python, bancos de dados e muito mais. Atualmente mestrando em Inteligência Artificial para Sociedades Sustentáveis em Porto, Portugal."}
+              ? "I have over 3 years of experience in programming, mainly as a backend developer. I have worked with Java, Typescript, Python, Databases and much more. I'm currently pursuing my Masters in Artificial Intelligence for Sustainable Societies in Tampere, Finland."
+              : "Tenho mais de 3 anos de experiência em programação, principalmente como desenvolvedor backend. Já trabalhei com Java, Typescript, Python, bancos de dados e muito mais. Atualmente mestrando em Inteligência Artificial para Sunstentabilidade em Tampere, Finlândia."}
           </Text>
 
           {/* Texto animado + linguagens */}
