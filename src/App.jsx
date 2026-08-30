@@ -259,7 +259,8 @@ const I18N = {
         location:
           "🚩 Tallinn University (EE) • Universidade Lusófona (PT) • Tampere University (FI)",
         notes: [
-          "⭐ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
+          "🎖️ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
+          "⭐ Recommendation by PhD Pedro Strecht",
         ],
       },
       //{
@@ -417,7 +418,8 @@ const I18N = {
         location:
           "🚩 Tallinn University (EE) • Universidade Lusófona (PT) • Tampere University (FI)",
         notes: [
-          "⭐ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
+          "🎖️ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
+          "⭐ Recomendação do PhD Pedro Strecht",
         ],
       },
       {
@@ -927,6 +929,7 @@ const noteLinks = {
     "/images/victorsales-usb.pdf",
   "Research on AI in Agriculture": "/images/research-ai-on-agriculture.pdf",
   "Recommendation by M.Sc. & M.Eng. Tomáš Zoubek": "/images/letter-zoubek.pdf",
+  "Recommendation by PhD Pedro Strecht": "/images/letter-pedro.pdf",
 
   // === Português ===
   "Tese sobre IoT, IA e Engenharia de Software para Sustentabilidade":
@@ -934,6 +937,7 @@ const noteLinks = {
   "Pesquisa em Inteligência Artificial na Agricultura":
     "/images/research-ai-on-agriculture.pdf",
   "Recomendação do M.Sc. & M.Eng. Tomáš Zoubek": "/images/letter-zoubek.pdf",
+  "Recomendação do PhD Pedro Strecht": "/images/letter-pedro.pdf",
 };
 
 function Education({ lang = "en" }) {
