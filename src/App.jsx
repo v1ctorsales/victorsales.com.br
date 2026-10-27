@@ -252,26 +252,34 @@ const I18N = {
     ],
     education: [
       {
-        titleClosed:
-          "M.Sc. — Artificial Intelligence for Sustainable Societies",
-        titleOpen: "Master of Science in Sustainable Information Technologies",
+        titleClosed: "M.Sc. — Artificial Intelligence",
+        titleOpen: "Master of Science in Artificial Intelligence",
         period: "📅 Aug 2025 – Aug 2027 · 2 years",
-        location:
-          "🚩 Tallinn University (EE) • Universidade Lusófona (PT) • Tampere University (FI)",
+        location: "🚩 Tallinn University (EE)",
         notes: [
-          "🎖️ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
+          "⭐ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
+          //"⭐ Recommendation by PhD Pedro Strecht",
+        ],
+      },
+      {
+        titleClosed: "M.Eng. — Artificial Intelligence",
+        titleOpen: "Master of Engineering in Artificial Intelligence",
+        period: "📅 Aug 2025 – Aug 2027 · 2 years",
+        location: "🚩 Universidade Lusófona (PT)",
+        notes: [
+          //"🎖️ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
           "⭐ Recommendation by PhD Pedro Strecht",
         ],
       },
-      //{
-      //  titleClosed: "M.SS. — Sustainable Information Technologies ",
-      //  titleOpen: "Master of Social Science — Sustainable Information Technologies ",
-      //  period: "📅 Aug 2025 – Aug 2027 · 2 years",
-      //  location: "🚩 Tampere University (FI)",
-      // notes: [
-      //   "⭐ Erasmus Mundus Scholarship for Academic Excellence — European Union funded"
-      // ],
-      // },
+      {
+        titleClosed: "M.SSc. — Sustainable Societies ",
+        titleOpen: "Master of Social Sciences in Sustainable Societies ",
+        period: "📅 Aug 2025 – Aug 2027 · 2 years",
+        location: "🚩 Tampere University (FI)",
+        notes: [
+          "⭐ Erasmus Mundus Scholarship for Academic Excellence — European Union funded",
+        ],
+      },
 
       {
         titleClosed: "B.Sc. R. — Artificial Intelligence",
@@ -410,18 +418,35 @@ const I18N = {
     ],
     education: [
       {
-        titleClosed:
-          "M.Sc. — Inteligência Artificial para Sociedades Sustentáveis",
-        titleOpen:
-          "Mestrado — Inteligência Artificial para Sociedades Sustentáveis",
+        titleClosed: "M.Sc. — Inteligência Artificial",
+        titleOpen: "Mestrado em Ciências — Inteligência Artificial",
         period: "📅 Ago 2025 – Ago 2027 · 2 anos",
-        location:
-          "🚩 Tallinn University (EE) • Universidade Lusófona (PT) • Tampere University (FI)",
+        location: "🚩 Tallinn University (EE)",
         notes: [
-          "🎖️ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
+          "⭐ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
+          //"⭐ Recomendação do PhD Pedro Strecht",
+        ],
+      },
+      {
+        titleClosed: "M.Eng. — Inteligência Artificial",
+        titleOpen: "Mestrado em Engenharia — Inteligência Artificial",
+        period: "📅 Ago 2025 – Ago 2027 · 2 anos",
+        location: "🚩 Universidade Lusófona (PT)",
+        notes: [
+          //"🎖️ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
           "⭐ Recomendação do PhD Pedro Strecht",
         ],
       },
+      {
+        titleClosed: "M.SSc. — Sociedades Sustentáveis",
+        titleOpen: "Mestrado em Ciências Sociais — Sociedades Sustentáveis",
+        period: "📅 Ago 2025 – Ago 2027 · 2 anos",
+        location: "🚩 Tampere University (FI)",
+        notes: [
+          "⭐ Bolsa Erasmus Mundus de Excelência Acadêmica — Financiada pela União Europeia",
+        ],
+      },
+
       {
         titleClosed: "B.Sc. R. — Inteligência Artificial",
         titleOpen:
